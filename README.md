@@ -3,10 +3,10 @@ A program to play Fifa 15 game using hand gestures. The repo has the files to pl
 
 You can run the files fifa_using_colors.py and fifa_using_fingers.py to run the program.
 
-#Simulatinig Key Press
+# Simulatinig Key Press
 The file Key_press.py simulates the key press. 
 
 You will definitely learn a lot from it.
 
-#Demo Videos
+# Demo Videos
 You can look how the program works from the following videos.
